@@ -1,6 +1,5 @@
-# Your repo title here
+# SF Digital Services engineering
 
-This is a repo template for SF Digital Services. Here's what it does:
+This is the home for documentation of, by, and for the engineering of the [San Francisco Digital Services][sfds].
 
-1. The default branch is `main`, not `master`.
-2. The [MIT license](LICENSE) is included by default.
+[sfds]: https://sf.gov/departments/digital-services
